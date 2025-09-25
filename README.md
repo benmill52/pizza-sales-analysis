@@ -29,4 +29,20 @@ It includes data cleaning, exploratory data analysis (EDA), and visualizations t
 ##  How to Use  
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/yourusername/pizza-sales-analysis.git
+   git clone https://github.com/benmill52/pizza-sales-analysis.git
+
+## Conclusion
+
+This analysis provided valuable insights into pizza sales performance. From the findings:
+
+Customer demand peaks during lunch (12–14h) and dinner (18–20h), suggesting the best times for promotions and staff scheduling.
+
+Top-selling pizzas such as The Classic Deluxe and Barbecue Chicken dominate revenue, showing the importance of keeping these well-stocked.
+
+Underperforming pizzas generate little revenue and may be reconsidered or rebranded.
+
+Size and pricing play a role in sales, with medium and large pizzas selling more consistently than extra-large.
+
+Seasonal and monthly trends indicate potential opportunities for targeted campaigns during high-demand periods.
+
+Overall, this project demonstrates how data-driven insights can support better business decisions — from menu optimization to staffing and marketing strategies.
